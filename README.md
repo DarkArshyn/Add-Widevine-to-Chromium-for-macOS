@@ -7,7 +7,3 @@ This simple script install Widevine on Chromium for macOS
 ### Known Issue
 
 Tell me
-
-## Script Preview
-
-![](./assets/images/script.png)
